@@ -1,10 +1,11 @@
 <?php
 
-/**
- * @author lolkittens
- * @copyright 2013
- */
-
+class ModelQuery{
+    
+    function __construct(){
+        
+    }
+}
 
 
 ?>
